@@ -7,6 +7,9 @@ organization: google
 google-analytics.com
 region1.google-analytics.com
 googleanalytics.com
+region1.google-analytics.com
+region1.analytics.google.com
+analytics.google.com
 --- domains
 
 --- filters
@@ -27,6 +30,8 @@ googleanalytics.com
 ||stats.g.doubleclick.net/__utm.gif
 ||stats.g.doubleclick.net/dc.js
 ||googleanalytics.com/analytics.js
+||region1.analytics.google.com/g/collect
+||analytics.google.com/g/collect
 --- filters
 
 ghostery_id: 13
